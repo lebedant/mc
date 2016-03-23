@@ -1,0 +1,15 @@
+Running suite /lib/widget
+comp100%: Checks: 11, Failures: 0, Errors: 0
+gine_fill_completions:0: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:1: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:2: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:3: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:4: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:5: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:6: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:7: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:8: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:9: Passed
+complete_engine.c:213:P:Core:test_complete_engine_fill_completions:10: Passed
+Results for all suites run:
+100%: Checks: 11, Failures: 0, Errors: 0

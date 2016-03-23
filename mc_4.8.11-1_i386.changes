@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Thu, 05 Dec 2013 05:41:14 +1100
+Source: mc
+Binary: mc mc-data mc-dbg
+Architecture: i386 all
+Version: 3:4.8.11-1
+Distribution: unstable
+Urgency: low
+Maintainer: Debian MC Packaging Group <pkg-mc-devel@lists.alioth.debian.org>
+Changed-By: Dmitry Smirnov <onlyjob@debian.org>
+Description: 
+ mc         - Midnight Commander - a powerful file manager
+ mc-data    - Midnight Commander - a powerful file manager -- data files
+ mc-dbg     - Midnight Commander - a powerful file manager - debug package
+Closes: 723868 724766
+Changes: 
+ mc (3:4.8.11-1) unstable; urgency=low
+ .
+   * New upstream release [November 2013].
+     + fixed behaviour with "num_history_items_recorded=0" (Closes: #723868).
+     + no longer use deprecated "find -perm +xxx" (Closes: #724766).
+   * Removed all backported and forwarded patches.
+Checksums-Sha1: 
+ ca7b5c6e2796ae1a8d1b957cf08f5d968e5f9ba4 497692 mc_4.8.11-1_i386.deb
+ 2239023c2b4092a96e4cee5d63f1e4bb88fab027 1178880 mc-data_4.8.11-1_all.deb
+ 586c483295f4aacd608af0248f063374d82247e2 1265090 mc-dbg_4.8.11-1_i386.deb
+Checksums-Sha256: 
+ 9eb3c62e8053f4f187ab0f5df02216ac9e1f7aa006e21155f1ae66b029fa19ed 497692 mc_4.8.11-1_i386.deb
+ 8f275fa80230d3f8cbae99e3b6ddbc5562bb16f7be3cd18611ccb356086e501b 1178880 mc-data_4.8.11-1_all.deb
+ 1b195527479eb207818137df6fd9f4cb56106231d0a37927b3e273c514b54973 1265090 mc-dbg_4.8.11-1_i386.deb
+Files: 
+ beeb6431b312703e618ba038a5464a57 497692 utils optional mc_4.8.11-1_i386.deb
+ 2d7418741353ffe6908fe5d9b136a168 1178880 utils optional mc-data_4.8.11-1_all.deb
+ 8935f886d9e777fcac61187375033747 1265090 debug extra mc-dbg_4.8.11-1_i386.deb

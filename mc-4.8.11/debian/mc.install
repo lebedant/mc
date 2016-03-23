@@ -1,0 +1,5 @@
+debian/mc.desktop			usr/share/applications
+debian/icons/mc.xpm			usr/share/pixmaps
+usr/bin
+usr/lib/mc
+etc/mc/*

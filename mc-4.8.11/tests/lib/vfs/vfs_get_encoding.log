@@ -1,0 +1,19 @@
+Running suite /lib/vfs
+vfs_100%: Checks: 15, Failures: 0, Errors: 0
+coding:0: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:1: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:2: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:3: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:4: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:5: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:6: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:7: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:8: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:9: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:10: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:11: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:12: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:13: Passed
+vfs_get_encoding.c:123:P:Core:test_vfs_get_encoding:14: Passed
+Results for all suites run:
+100%: Checks: 15, Failures: 0, Errors: 0

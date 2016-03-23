@@ -1,0 +1,15 @@
+## BACKPORTED:
+
+## DEBIAN FIXES AND ENHANCEMENTS:
+uzip_528239.patch
+alt_editor.patch
+use_sensible-editor.patch
+
+## OVERRIDE DEFAULTS:
+disable_internal_editor.patch
+mcedit_auto_indent.patch
+mcedit_group_undo.patch
+ext_run-mailcap.patch
+ext_use_default_editor.patch
+
+## FORWARDED:

@@ -1,0 +1,7 @@
+Running suite /lib/vfs
+rela100%: Checks: 3, Failures: 0, Errors: 0
+ Passed
+relative_cd.c:151:P:Core:test_relative_cd:1: Passed
+relative_cd.c:167:P:Core:test_vpath_to_str_filter:0: Passed
+Results for all suites run:
+100%: Checks: 3, Failures: 0, Errors: 0

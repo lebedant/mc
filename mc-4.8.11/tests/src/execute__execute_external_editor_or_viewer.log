@@ -1,0 +1,5 @@
+Running suite /src
+exec100%: Checks: 1, Failures: 0, Errors: 0
+:166:P:Core:do_open_external_editor_or_viewer:0: Passed
+Results for all suites run:
+100%: Checks: 1, Failures: 0, Errors: 0

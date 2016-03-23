@@ -1,0 +1,12 @@
+Running suite /lib/vfs
+curr100%: Checks: 9, Failures: 0, Errors: 0
+urrent_dir.c:162:P:Core:test_cd:1: Passed
+current_dir.c:162:P:Core:test_cd:2: Passed
+current_dir.c:162:P:Core:test_cd:3: Passed
+current_dir.c:162:P:Core:test_cd:4: Passed
+current_dir.c:162:P:Core:test_cd:5: Passed
+current_dir.c:162:P:Core:test_cd:6: Passed
+current_dir.c:162:P:Core:test_cd:7: Passed
+current_dir.c:162:P:Core:test_cd:8: Passed
+Results for all suites run:
+100%: Checks: 9, Failures: 0, Errors: 0

@@ -1,0 +1,10 @@
+Running suite /lib/vfs
+vfs_100%: Checks: 6, Failures: 0, Errors: 0
+_ls_lga:0: Passed
+vfs_parse_ls_lga.c:259:P:Core:test_vfs_parse_ls_lga:1: Passed
+vfs_parse_ls_lga.c:259:P:Core:test_vfs_parse_ls_lga:2: Passed
+vfs_parse_ls_lga.c:259:P:Core:test_vfs_parse_ls_lga:3: Passed
+vfs_parse_ls_lga.c:275:P:Core:test_vfs_parse_ls_lga_reorder:0: Passed
+vfs_parse_ls_lga.c:334:P:Core:test_vfs_parse_ls_lga_unaligned:0: Passed
+Results for all suites run:
+100%: Checks: 6, Failures: 0, Errors: 0

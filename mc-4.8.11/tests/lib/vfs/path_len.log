@@ -1,0 +1,8 @@
+Running suite /lib/vfs
+path100%: Checks: 4, Failures: 0, Errors: 0
+ssed
+path_len.c:115:P:Core:test_path_length:1: Passed
+path_len.c:115:P:Core:test_path_length:2: Passed
+path_len.c:115:P:Core:test_path_length:3: Passed
+Results for all suites run:
+100%: Checks: 4, Failures: 0, Errors: 0

@@ -1,0 +1,23 @@
+Running suite /lib/vfs
+vfs_100%: Checks: 19, Failures: 0, Errors: 0
+m_to_string:0: Passed
+vfs_path_string_convert.c:197:P:Core:test_from_to_string:1: Passed
+vfs_path_string_convert.c:197:P:Core:test_from_to_string:2: Passed
+vfs_path_string_convert.c:197:P:Core:test_from_to_string:3: Passed
+vfs_path_string_convert.c:197:P:Core:test_from_to_string:4: Passed
+vfs_path_string_convert.c:197:P:Core:test_from_to_string:5: Passed
+vfs_path_string_convert.c:197:P:Core:test_from_to_string:6: Passed
+vfs_path_string_convert.c:197:P:Core:test_from_to_string:7: Passed
+vfs_path_string_convert.c:197:P:Core:test_from_to_string:8: Passed
+vfs_path_string_convert.c:267:P:Core:test_partial_string_by_index:0: Passed
+vfs_path_string_convert.c:267:P:Core:test_partial_string_by_index:1: Passed
+vfs_path_string_convert.c:267:P:Core:test_partial_string_by_index:2: Passed
+vfs_path_string_convert.c:267:P:Core:test_partial_string_by_index:3: Passed
+vfs_path_string_convert.c:267:P:Core:test_partial_string_by_index:4: Passed
+vfs_path_string_convert.c:267:P:Core:test_partial_string_by_index:5: Passed
+vfs_path_string_convert.c:267:P:Core:test_partial_string_by_index:6: Passed
+vfs_path_string_convert.c:267:P:Core:test_partial_string_by_index:7: Passed
+vfs_path_string_convert.c:267:P:Core:test_partial_string_by_index:8: Passed
+vfs_path_string_convert.c:312:P:Core:test_vfs_path_encoding_at_end:0: Passed
+Results for all suites run:
+100%: Checks: 19, Failures: 0, Errors: 0

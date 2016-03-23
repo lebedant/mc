@@ -1,0 +1,8 @@
+uzip_528239.patch
+alt_editor.patch
+use_sensible-editor.patch
+disable_internal_editor.patch
+mcedit_auto_indent.patch
+mcedit_group_undo.patch
+ext_run-mailcap.patch
+ext_use_default_editor.patch

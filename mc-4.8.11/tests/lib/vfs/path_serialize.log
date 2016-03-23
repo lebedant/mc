@@ -1,0 +1,6 @@
+Running suite /lib/vfs
+path100%: Checks: 2, Failures: 0, Errors: 0
+ize:0: Passed
+path_serialize.c:182:P:Core:test_path_deserialize:0: Passed
+Results for all suites run:
+100%: Checks: 2, Failures: 0, Errors: 0

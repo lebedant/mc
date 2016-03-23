@@ -1,0 +1,15 @@
+Running suite /lib/strutil
+pars100%: Checks: 11, Failures: 0, Errors: 0
+:0: Passed
+parse_integer.c:136:P:Core:parse_integer_test:1: Passed
+parse_integer.c:136:P:Core:parse_integer_test:2: Passed
+parse_integer.c:136:P:Core:parse_integer_test:3: Passed
+parse_integer.c:136:P:Core:parse_integer_test:4: Passed
+parse_integer.c:136:P:Core:parse_integer_test:5: Passed
+parse_integer.c:136:P:Core:parse_integer_test:6: Passed
+parse_integer.c:136:P:Core:parse_integer_test:7: Passed
+parse_integer.c:136:P:Core:parse_integer_test:8: Passed
+parse_integer.c:136:P:Core:parse_integer_test:9: Passed
+parse_integer.c:136:P:Core:parse_integer_test:10: Passed
+Results for all suites run:
+100%: Checks: 11, Failures: 0, Errors: 0

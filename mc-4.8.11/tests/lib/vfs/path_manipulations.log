@@ -1,0 +1,31 @@
+Running suite /lib/vfs
+path100%: Checks: 27, Failures: 0, Errors: 0
+_tokens_count:0: Passed
+path_manipulations.c:174:P:Core:test_vfs_path_tokens_count:1: Passed
+path_manipulations.c:174:P:Core:test_vfs_path_tokens_count:2: Passed
+path_manipulations.c:174:P:Core:test_vfs_path_tokens_count:3: Passed
+path_manipulations.c:174:P:Core:test_vfs_path_tokens_count:4: Passed
+path_manipulations.c:174:P:Core:test_vfs_path_tokens_count:5: Passed
+path_manipulations.c:174:P:Core:test_vfs_path_tokens_count:6: Passed
+path_manipulations.c:174:P:Core:test_vfs_path_tokens_count:7: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:0: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:1: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:2: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:3: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:4: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:5: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:6: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:7: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:8: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:9: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:10: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:11: Passed
+path_manipulations.c:289:P:Core:test_vfs_path_tokens_get:12: Passed
+path_manipulations.c:357:P:Core:test_vfs_path_append_vpath:0: Passed
+path_manipulations.c:357:P:Core:test_vfs_path_append_vpath:1: Passed
+path_manipulations.c:405:P:Core:test_vfs_path_relative:0: Passed
+path_manipulations.c:405:P:Core:test_vfs_path_relative:1: Passed
+path_manipulations.c:432:P:Core:test_vfs_path_relative_clone:0: Passed
+path_manipulations.c:432:P:Core:test_vfs_path_relative_clone:1: Passed
+Results for all suites run:
+100%: Checks: 27, Failures: 0, Errors: 0

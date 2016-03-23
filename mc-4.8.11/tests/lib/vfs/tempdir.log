@@ -1,0 +1,6 @@
+Running suite /lib/vfs
+temp100%: Checks: 2, Failures: 0, Errors: 0
+
+tempdir.c:118:P:Core:test_mc_mkstemps:0: Passed
+Results for all suites run:
+100%: Checks: 2, Failures: 0, Errors: 0

@@ -1,0 +1,8 @@
+Running suite /src/filemanager
+do_c100%: Checks: 4, Failures: 0, Errors: 0
+ome:0: Passed
+do_cd_command.c:147:P:Core:test_empty_mean_home:1: Passed
+do_cd_command.c:147:P:Core:test_empty_mean_home:2: Passed
+do_cd_command.c:147:P:Core:test_empty_mean_home:3: Passed
+Results for all suites run:
+100%: Checks: 4, Failures: 0, Errors: 0

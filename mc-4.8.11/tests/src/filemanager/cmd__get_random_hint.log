@@ -1,0 +1,10 @@
+Running suite /src/filemanager
+cmd_100%: Checks: 6, Failures: 0, Errors: 0
+rce:0: Passed
+cmd__get_random_hint.c:143:P:Core:get_random:0: Passed
+cmd__get_random_hint.c:143:P:Core:get_random:1: Passed
+cmd__get_random_hint.c:143:P:Core:get_random:2: Passed
+cmd__get_random_hint.c:143:P:Core:get_random:3: Passed
+cmd__get_random_hint.c:143:P:Core:get_random:4: Passed
+Results for all suites run:
+100%: Checks: 6, Failures: 0, Errors: 0

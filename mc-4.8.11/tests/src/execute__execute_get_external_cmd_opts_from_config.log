@@ -1,0 +1,6 @@
+Running suite /src
+exec100%: Checks: 2, Failures: 0, Errors: 0
+config.c:150:P:Core:check_if_filename_and_lineno_will_be_subtituted:0: Passed
+execute__execute_get_external_cmd_opts_from_config.c:150:P:Core:check_if_filename_and_lineno_will_be_subtituted:1: Passed
+Results for all suites run:
+100%: Checks: 2, Failures: 0, Errors: 0

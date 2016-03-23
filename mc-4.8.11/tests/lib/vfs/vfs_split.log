@@ -1,0 +1,15 @@
+Running suite /lib/vfs
+vfs_100%: Checks: 11, Failures: 0, Errors: 0
+ed
+vfs_split.c:190:P:Core:test_vfs_split:1: Passed
+vfs_split.c:190:P:Core:test_vfs_split:2: Passed
+vfs_split.c:190:P:Core:test_vfs_split:3: Passed
+vfs_split.c:190:P:Core:test_vfs_split:4: Passed
+vfs_split.c:190:P:Core:test_vfs_split:5: Passed
+vfs_split.c:190:P:Core:test_vfs_split:6: Passed
+vfs_split.c:190:P:Core:test_vfs_split:7: Passed
+vfs_split.c:190:P:Core:test_vfs_split:8: Passed
+vfs_split.c:190:P:Core:test_vfs_split:9: Passed
+vfs_split.c:190:P:Core:test_vfs_split:10: Passed
+Results for all suites run:
+100%: Checks: 11, Failures: 0, Errors: 0

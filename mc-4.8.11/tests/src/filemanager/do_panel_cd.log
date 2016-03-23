@@ -1,0 +1,4 @@
+Running suite /src/filemanager
+exec_get_export_variables_ext.c:69:P:Core:sanitize_variables:0: Passed
+Results for all suites run:
+100%: Checks: 1, Failures: 0, Errors: 0

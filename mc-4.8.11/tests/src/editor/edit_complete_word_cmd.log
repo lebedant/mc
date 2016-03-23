@@ -1,0 +1,6 @@
+Running suite /src/editor
+editcmd__edit_complete_word_cmd.c:257:P:Core:test_autocomplete:0: Passed
+editcmd__edit_complete_word_cmd.c:257:P:Core:test_autocomplete:1: Passed
+editcmd__edit_complete_word_cmd.c:316:P:Core:test_autocomplete_single:0: Passed
+Results for all suites run:
+100%: Checks: 3, Failures: 0, Errors: 0

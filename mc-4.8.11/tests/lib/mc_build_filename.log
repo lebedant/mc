@@ -1,0 +1,17 @@
+Running suite /lib
+mc_b100%: Checks: 13, Failures: 0, Errors: 0
+filename:0: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:1: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:2: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:3: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:4: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:5: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:6: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:7: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:8: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:9: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:10: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:11: Passed
+mc_build_filename.c:113:P:Core:test_mc_build_filename:12: Passed
+Results for all suites run:
+100%: Checks: 13, Failures: 0, Errors: 0

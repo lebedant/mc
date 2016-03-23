@@ -1,0 +1,22 @@
+Running suite /lib/vfs
+cano100%: Checks: 18, Failures: 0, Errors: 0
+icalize_path:0: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:1: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:2: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:3: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:4: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:5: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:6: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:7: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:8: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:9: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:10: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:11: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:12: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:13: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:14: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:15: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:16: Passed
+canonicalize_pathname.c:172:P:Core:test_canonicalize_path:17: Passed
+Results for all suites run:
+100%: Checks: 18, Failures: 0, Errors: 0

@@ -1,0 +1,9 @@
+Running suite /src
+exec100%: Checks: 5, Failures: 0, Errors: 0
+e_file_is_local:0: Passed
+execute__execute_with_vfs_arg.c:79:P:Core:the_file_is_local:1: Passed
+execute__execute_with_vfs_arg.c:115:P:Core:the_file_is_remote_but_empty:0: Passed
+execute__execute_with_vfs_arg.c:152:P:Core:the_file_is_remote_fail_to_create_local_copy:0: Passed
+execute__execute_with_vfs_arg.c:210:P:Core:the_file_is_remote:0: Passed
+Results for all suites run:
+100%: Checks: 5, Failures: 0, Errors: 0

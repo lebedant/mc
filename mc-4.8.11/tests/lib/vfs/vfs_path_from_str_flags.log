@@ -1,0 +1,6 @@
+Running suite /lib/vfs
+vfs_100%: Checks: 2, Failures: 0, Errors: 0
+ip_home:0: Passed
+vfs_path_from_str_flags.c:90:P:Core:test_strip_home:1: Passed
+Results for all suites run:
+100%: Checks: 2, Failures: 0, Errors: 0

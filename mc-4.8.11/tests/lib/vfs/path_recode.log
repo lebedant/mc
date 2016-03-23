@@ -1,0 +1,17 @@
+Running suite /lib/vfs
+path_recode.c:155:P:Core:test_path_recode:0:100%: Checks: 14, Failures: 0, Errors: 0
+h_recode:1: Passed
+path_recode.c:155:P:Core:test_path_recode:2: Passed
+path_recode.c:155:P:Core:test_path_recode:3: Passed
+path_recode.c:155:P:Core:test_path_recode:4: Passed
+path_recode.c:242:P:Core:test_path_to_str_flags:0: Passed
+path_recode.c:242:P:Core:test_path_to_str_flags:1: Passed
+path_recode.c:242:P:Core:test_path_to_str_flags:2: Passed
+path_recode.c:242:P:Core:test_path_to_str_flags:3: Passed
+path_recode.c:242:P:Core:test_path_to_str_flags:4: Passed
+path_recode.c:242:P:Core:test_path_to_str_flags:5: Passed
+path_recode.c:242:P:Core:test_path_to_str_flags:6: Passed
+path_recode.c:242:P:Core:test_path_to_str_flags:7: Passed
+path_recode.c:242:P:Core:test_path_to_str_flags:8: Passed
+Results for all suites run:
+100%: Checks: 14, Failures: 0, Errors: 0

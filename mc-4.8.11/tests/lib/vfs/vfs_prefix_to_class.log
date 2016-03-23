@@ -1,0 +1,13 @@
+Running suite /lib/vfs
+vfs_100%: Checks: 9, Failures: 0, Errors: 0
+efix_to_class:0: Passed
+vfs_prefix_to_class.c:156:P:Core:test_vfs_prefix_to_class:1: Passed
+vfs_prefix_to_class.c:156:P:Core:test_vfs_prefix_to_class:2: Passed
+vfs_prefix_to_class.c:156:P:Core:test_vfs_prefix_to_class:3: Passed
+vfs_prefix_to_class.c:156:P:Core:test_vfs_prefix_to_class:4: Passed
+vfs_prefix_to_class.c:156:P:Core:test_vfs_prefix_to_class:5: Passed
+vfs_prefix_to_class.c:156:P:Core:test_vfs_prefix_to_class:6: Passed
+vfs_prefix_to_class.c:156:P:Core:test_vfs_prefix_to_class:7: Passed
+vfs_prefix_to_class.c:156:P:Core:test_vfs_prefix_to_class:8: Passed
+Results for all suites run:
+100%: Checks: 9, Failures: 0, Errors: 0

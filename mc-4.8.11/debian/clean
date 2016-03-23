@@ -1,0 +1,4 @@
+m4/intltool.m4
+tests/*/*.log
+tests/*/*/*.log
+tests/lib/mcconfig/*.ini

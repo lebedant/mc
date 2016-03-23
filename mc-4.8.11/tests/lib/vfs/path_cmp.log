@@ -1,0 +1,19 @@
+Running suite /lib/vfs
+path100%: Checks: 15, Failures: 0, Errors: 0
+ed
+path_cmp.c:137:P:Core:test_path_equal:1: Passed
+path_cmp.c:137:P:Core:test_path_equal:2: Passed
+path_cmp.c:137:P:Core:test_path_equal:3: Passed
+path_cmp.c:137:P:Core:test_path_equal:4: Passed
+path_cmp.c:137:P:Core:test_path_equal:5: Passed
+path_cmp.c:137:P:Core:test_path_equal:6: Passed
+path_cmp.c:225:P:Core:test_path_equal_len:0: Passed
+path_cmp.c:225:P:Core:test_path_equal_len:1: Passed
+path_cmp.c:225:P:Core:test_path_equal_len:2: Passed
+path_cmp.c:225:P:Core:test_path_equal_len:3: Passed
+path_cmp.c:225:P:Core:test_path_equal_len:4: Passed
+path_cmp.c:225:P:Core:test_path_equal_len:5: Passed
+path_cmp.c:225:P:Core:test_path_equal_len:6: Passed
+path_cmp.c:225:P:Core:test_path_equal_len:7: Passed
+Results for all suites run:
+100%: Checks: 15, Failures: 0, Errors: 0
